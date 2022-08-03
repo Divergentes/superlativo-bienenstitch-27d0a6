@@ -1,0 +1,44 @@
+body{
+	background-image: url('imagens/black.jpg');
+	align-items: center;
+	text-align: center;
+	margin: 0;
+}
+
+h1{
+	color: #a60fa8;
+	font-size: 50px;
+	font-family: fantasy;	
+}
+p{
+	color: ghostwhite;
+}
+h2{
+	color: ghostwhite;
+	font-size: 30px;
+}
+span{	
+	text-align: center;
+	word-spacing: 20px;
+	
+}
+a{
+	text-decoration: none;
+	color: rebeccapurple;
+	font-family: monospace;
+	font-size: 25px;
+}
+img{
+	width: 800px;
+}
+.titulo{
+	font-size: 20px;
+	color: #0c8dc4;
+}
+ul{
+	color: ghostwhite;
+}
+h3{
+	color: ghostwhite;
+	margin-left: 22px;
+}
